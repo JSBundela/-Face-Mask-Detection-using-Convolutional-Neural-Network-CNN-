@@ -1,1 +1,1 @@
-# -Face-Mask-Detection-using-Convolutional-Neural-Network-CNN---Deep-Learning-Projects
+# -Face-Mask-Detection-using-Convolutional-Neural-Network-CNN
